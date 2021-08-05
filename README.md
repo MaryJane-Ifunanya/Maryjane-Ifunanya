@@ -27,4 +27,4 @@
   <a href="https://www.linkedin.com/in/mary-jane-500287209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
-  ![Snake animation](https://github.com/maryjane-ifunanya/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/maryjane-ifunanya)
