@@ -1,4 +1,5 @@
-### Olá! Eu sou a Maryjane Ifunanya
+### Olá! Eu sou a Maryjane Ifunanya 👋
+
 
 - 🔭  Hoje estou migrando para a área de TI.
 - 👩 Desenvolvedora fullstack em formação.
