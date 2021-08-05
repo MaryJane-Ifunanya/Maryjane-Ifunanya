@@ -1,10 +1,10 @@
 ### Olá! Eu sou a Maryjane Ifunanya
 
-- Hoje estou migrando para a área de TI.
-- Estou estudando HTML, CSS, Python e JavaScript.
-- Contate-me no e-mail: maryjaneifunanya3@gmail.com
+- 🔭  Hoje estou migrando para a área de TI.
+- 👩 Desenvolvedora fullstack em formação.
+- 🌱 Estou estudando HTML, CSS, Python e JavaScript.
+- 📧 Contate-me no e-mail: maryjaneifunanya3@gmail.com
 - 😄 Pronouns: ela/dela
-- Hobbies: 
 
 <div>
   <a href="https://github.com/maryjane-ifunanya">
