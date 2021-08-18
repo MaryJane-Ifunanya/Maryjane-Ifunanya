@@ -18,8 +18,9 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="right" alt="maryjane-ifunanya" src="https://discord.com/channels/872920372700405841/872920372700405845/877324430794194945">
-</div>
+    <img align="right" alt="maryjane-ifunanya" height="130" width="130" src="https://discord.com/channels/872920372700405841/872920372700405845/877324430794194945">
 </div>
   
   ##
