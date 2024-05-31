@@ -2,8 +2,8 @@
 
 
 - 🔭  Hoje estou migrando para a área de TI.
-- 👩 Desenvolvedora fullstack em formação.
-- 🌱 Estou estudando HTML, CSS, PYTHON, MYSQL e JAVA.
+- 👩 Analista de Dados e Desenvolvedora fullstack em formação.
+- 🌱 Estou estudando HTML, CSS, PYTHON, SQL e JAVA.
 - 📧 Contate-me no e-mail: maryjaneifunanya3@gmail.com
 - 😄 Pronouns: ela/dela
 
