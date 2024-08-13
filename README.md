@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Maryjane Ifunanya 👋
 
 
-- 🔭  Hoje estou migrando para a área de TI.
-- 👩 Analista de Dados e Desenvolvedora fullstack em formação.
-- 🌱 Estou estudando HTML, CSS, PYTHON, SQL e JAVA.
+- 🔭 Apaixonada pela área de TI.
+- 👩 Analista de Dados em formação.
+- 🌱 Estou estudando PYTHON, SQL e Javascript.
 - 📧 Contate-me no e-mail: maryjaneifunanya3@gmail.com
 - 😄 Pronouns: ela/dela
 
